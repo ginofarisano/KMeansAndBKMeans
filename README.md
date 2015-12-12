@@ -1,4 +1,4 @@
-# kmeanshadoop
+# KMeansAndBKMean
 
 Implementazione sequenziale e parallela del k-means e bisect k-means.
 
